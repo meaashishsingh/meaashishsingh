@@ -10,6 +10,6 @@
 
 
 
-- 💬 Ask me about **Web Development, DSA, C++, MongoDB, Git&Git.Hub.**
+- 💬 Ask me about **Web Development, DSA, C++,React,Javascript, MongoDB, Git&Git.Hub.**
 
 
