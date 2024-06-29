@@ -3,7 +3,7 @@
 <h3 align="center">I’m currently learning **Frontend development.</h3>
 
 
-<h3 align="center">- 📚 I’m currently Studying Computer Science **E-commerce Websites & ED-Tech Websites.</h3>
+<!--<h3 align="center">- 📚 I’m currently Studying Computer Science **E-commerce Websites & ED-Tech Websites.</h3>  -->
 
 
 
