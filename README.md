@@ -3,14 +3,12 @@
 <h3 align="center">I’m currently learning **Frontend development.</h3>
 
 
-- 📚 I’m currently Studying Computer Science **E-commerce Websites & ED-Tech Websites.**
-
-- 🌱 I’m currently learning **Backend Development(ExpressJs, MongoDB).**
-
-- 🔭 I’m currently working on **E-commerce Websites & ED-Tech Websites.**
+<h3 align="center">- 📚 I’m currently Studying Computer Science **E-commerce Websites & ED-Tech Websites.</h3>
 
 
 
-- 💬 Ask me about **Web Development, DSA, C++, React, Javascript , Git&Git**
+
+
+- 💬 Ask me about **Web Development, DSA, C++, React, Javascript , Git&**
 
 
