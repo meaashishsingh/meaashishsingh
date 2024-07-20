@@ -9,6 +9,6 @@
 
 
 
-      - 💬 Ask me about **Web Development, DSA, C++, React, Javascript , Git&Github
+      - 💬 Ask me about **Web Development, DSA, C++, React, Javascript ,Nodejs,Express, Git&Github
 
 
