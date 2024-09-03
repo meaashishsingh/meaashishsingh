@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/aashishkashyab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhojs" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aashish-k-singh-433515203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhobera" height="30" width="40" /></a>
-<a href="https://instagram.com/shubho.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubho.js" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aashish_.singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubho.js" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
